@@ -1,6 +1,7 @@
 import {Line} from 'vue-chartjs'
 import axios from 'axios'
 
+
 export default{
     extends:Line,
     data: () => ({
